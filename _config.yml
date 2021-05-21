@@ -1,0 +1,12 @@
+title: "Games Canon"
+email: fstrater@beeldengeluid.nl
+description: 
+baseurl: "/gamescanon" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+collections:
+  games:
+    title: Games
+    output: false
+  uploads:
+    title: Uploads
+    output: true
