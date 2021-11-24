@@ -35,9 +35,7 @@
               <figure class="text-component__block">
                 <img src="{{ image_src | relative_url }}" alt="{{ item.title }}">
               </figure>
-              {{ item.content | replace: '<p>', '<p class="text-sm">' }}
-              <h4 class="font-medium">WAAROM STAAT DEZE GAME IN DE GAMESCANON?</h4>
-              <p class="text-sm">{{ item.description }}</p>
+              <p>{{ item.description }}</p>
             </div>
           </div>
         </div>

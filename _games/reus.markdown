@@ -8,7 +8,7 @@ wiki_url: https://nl.wikipedia.org/wiki/Reus_(computerspel)
 description: Reus is een zeer populaire Nederlandse "god game", die na één jaar al meer dan 700.000 keer werd verkocht.
 ---
 
-Reus is een god game ontwikkeld en uitgegeven door Abbey Games. Het spel kwam op 16 mei 2013 uit voor Windows.[1] Het spel is later ook uitgekomen voor Linux, OS X, de PlayStation 4 en de Xbox One.
+Reus is een god game ontwikkeld en uitgegeven door Abbey Games. Het spel kwam op 16 mei 2013 uit voor Windows. Het spel is later ook uitgekomen voor Linux, OS X, de PlayStation 4 en de Xbox One.
 
 Op 18 mei 2018 maakte Abbey Games bekend dat het spel meer dan een miljoen exemplaren had verkocht.
 
